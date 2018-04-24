@@ -6,13 +6,13 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-	<title>Master-detail scenario in ASPxMenu</title>
+    <title>Master-detail scenario in ASPxMenu</title>
 </head>
 <body>
-	<form id="form1" runat="server">
-		<div>
-			<dx:ASPxMenu ID="Menu" runat="server"></dx:ASPxMenu>
-		</div>
-	</form>
+    <form id="form1" runat="server">
+        <div>
+            <dx:ASPxMenu ID="Menu" runat="server"></dx:ASPxMenu>
+        </div>
+    </form>
 </body>
 </html>
